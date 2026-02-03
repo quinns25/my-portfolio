@@ -923,7 +923,7 @@ export default function App() {
 
           <p>
             <strong>GitHub:</strong>{" "}
-            <span className="muted">(add your GitHub link here)</span>
+            <span className="muted">(https://github.com/quinns25/my-portfolio)</span>
           </p>
         </div>
       </section>
