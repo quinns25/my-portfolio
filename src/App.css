@@ -576,3 +576,43 @@ body{
   color: var(--accent2);
 }
 
+.resumeTitle {
+  margin-top: 24px;
+  font-weight: 700;
+  color: #222;
+}
+
+.resumeSub {
+  margin-top: 6px;
+  margin-bottom: 14px;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+
+/* ===== ABOUT ===== */
+.aboutActions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.resumeBtn {
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 800;
+  text-decoration: none;
+  border: 2px solid var(--accent);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+}
+
+.resumeBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.12);
+  opacity: 0.95;
+}
