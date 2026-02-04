@@ -247,7 +247,7 @@ export default function App() {
         category: "Design",
         tag: "Desgin • Figma",
         img: process.env.PUBLIC_URL + "/images/Learn@RP.png",
-        desc: "Online Shopping Platform",
+        desc: "Learn@RP is a mobile learning companion application designed to help Republic Polytechnic students manage their academic journey more effectively. The app provides a centralized platform for accessing courses, tracking learning progress, and organizing daily academic tasks.",
         tech: [
           "Custom UI Kit ",
           " High-Fidelity Mobile Wireframe ",
