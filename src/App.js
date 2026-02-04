@@ -398,7 +398,7 @@ export default function App() {
           "/linkedin/CertificateOfCompletion_ISTQB Foundation Cert Prep.pdf",
       },  
       {
-        title: "JavaScript: Enhancing the DOM",
+        title: "JavaScript\u003A Enhancing the DOM",
         issuer: "LinkedIn Learning",
         year: "2025",
         pdf:
@@ -406,7 +406,7 @@ export default function App() {
           "/linkedin/CertificateOfCompletion_JavaScript Enhancing the DOM.pdf",
       },  
       {
-        title: "JavaScript: Web Form Programming",
+        title: "JavaScript\u003A Web Form Programming",
         issuer: "LinkedIn Learning",
         year: "2025",
         pdf:
