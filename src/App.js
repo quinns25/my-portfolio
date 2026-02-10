@@ -347,6 +347,8 @@ export default function App() {
       { title: "CSS Certificate", issuer: "Hackerank", year: "2026", pdf: process.env.PUBLIC_URL + "/linkedin/css certificate (1).pdf" },
       { title: "Jsvascript Certificate", issuer: "Hackerank", year: "2026", pdf: process.env.PUBLIC_URL + "/linkedin/javascript_basic certificate.pdf" },
       { title: "Python Certificate", issuer: "Hackerank", year: "2026", pdf: process.env.PUBLIC_URL + "/linkedin/python_basic certificate.pdf" },
+      { title: "SQL Certificate", issuer: "Hackerank", year: "2026", pdf: process.env.PUBLIC_URL + "/linkedin/sql_intermediate certificate.pdf" },
+
     ],
     []
   );
@@ -639,6 +641,8 @@ export default function App() {
               <p className="cardTag">{a.year}</p>
 
               
+
+
             </article>
           ))}
         </div>
